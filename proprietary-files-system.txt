@@ -1,0 +1,7 @@
+-app/SoterService/SoterService.apk
+bin/kpoc_charger
+etc/firmware/hx_criteria.csv
+etc/init/kpoc_charger.rc
+lib/libshowlogo.so
+lib64/libaptXHD_encoder.so
+lib64/libaptX_encoder.so
